@@ -1,0 +1,16 @@
+151;978-85-876-4303-2;A ;SUPERAN;96;110;32;7ª edição;2002;
+202;978-65-560-5004-1;CO;LEIS 13.982/2020 E 13.998/2020 - ESTUDO PRÁTICO SOBRE O CORONAVOUCHER;193;194;12;5ª;2020;
+206;978-85-876-4303-7;Curso de processo penal;curso de processo penalp;191;102;1;27ª edição;220;
+127;978-65-560-5019-5;gg;TUTELA E SOLUÇÃO DE CONFLITOS À LUZ DE PRINCÍPIOS CONSTITUCIONAIS;199;194;23;3ª Edição ;1978;
+132;978-85-010-5744-0;o cavaleiro preso da armadura ;uma fábula para quem busca a verdade ;131;102;1;22ª edição;1990;
+135;978-85-224-4318-6;OS 300 - O FILME epico;MEDIEVAL;78;102;1;8ª;2020;
+140;978-85-224-4318-4;p;MEDIDAS PROVISÓRIAS;78;102;1;14ª edição;2018;
+203;978-65-560-5029-4;Partidos Políticos e a Democracia Brasileira;Um Diálogo Necessário;195;194;13;9ª;2020;
+204;978-65-560-5062-1;Pessoa Com Deficiência;Acessibilidade, Cidadania e Inclusão à Luz da Teoria do Reconhecimento de Axel Honneth;196;194;1;10ª;2020;
+144;978-85-224-4318-1;Procedimentos especiais;atualizada até a lei 11.280;142;143;31;12ª edição;2006;
+125;978-85-224-4318-7;Programação java;com ênfase em orientação objeto;78;102;12;6ª edição;1963;
+126;978-85-224-4318-3;Prova Penal e Tecnologia;Meios de Investigação e Captação de Provas;198;194;21;6ª edição;2019;
+134;978-85-000-0000-2;REVOLUÇAÕ DOS BICHOS;UM LIVRO ATUAL ;81;128;42;5ª edição;2020;
+136;978-65-560-5031-7;Seguros de Pessoas;Negativas de Pagamento das Seguradoras;200;194;31;6ª;2020;
+205;978-85-536-1403-5;vidas secas;vidas secas;191;102;1;25;2020;
+124;978-85-224-4318-9;VIDAS SECAS e molhadas;UM HISTÓRIA DO NORDESTE;100;102;1;5ª edição;1978;

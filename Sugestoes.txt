@@ -1,0 +1,6 @@
+248;15/06/2020;211;1;A Era dos direitos (Norberto Bobbio);
+249;15/06/2020;243;1;Crime e castigo (Fiódor Dostoiévski);
+250;15/06/2020;245;1;Acima de qualquer suspeita (Scott Turow);
+251;15/06/2020;246;1;A verdade sobre o caso de Harry Quebert (Joel Dicker);
+252;15/06/2020;243;1; O processo (Franz Kafka);
+253;16/06/2020;243;1;Memórias do Cárcere (Graciliano Ramos);
